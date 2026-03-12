@@ -47,4 +47,4 @@ Le projet est structuré en trois phases clés pour garantir la fiabilité des i
 * Recommandation de révision de la stratégie de prix pour les marques à haute marge mais faible volume.
 * Optimisation de la trésorerie via la réduction des stocks invendus identifiés.
 
-Rafael BARRETO PANNETIER
+Rafael BARRETO
